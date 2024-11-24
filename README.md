@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyuben1337&label=Profile%20views&color=0e75b6&style=flat" alt="lyuben1337" /> </p>
 
-I am a passionate software developer. With my practical experience as a web- and mobile developer, I bring truly user-friendly and robust applications by designing clear and maintainable program architectures, ensuring the software can be easily supported and updated for years to come. I enjoy solving complex problems and continuously learning new skills to improve my abilities. I position myself not as a developer limited to a single domain; I thrive on quickly mastering new areas of development or languages / frameworks and applying them effectively in practice. 
+With my practical experience as a web- and mobile developer, I bring truly user-friendly and robust applications by designing clear and maintainable program architectures, ensuring the software can be easily supported and updated for years to come. I enjoy solving complex problems and continuously learning new skills to improve my abilities. I position myself not as a developer limited to a single domain; I thrive on quickly mastering new areas of development or languages / frameworks and applying them effectively in practice. 
 - 📫 How to reach me **vladyslavliubchyk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
